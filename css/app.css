@@ -13,3 +13,9 @@ li {
     color: #fff;
     font-size: 24px;
 }
+
+#icon {
+    width: 60px;
+    height: 60px;
+    background: aquamarine;
+}

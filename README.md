@@ -23,3 +23,9 @@
 
 ### 分离css
 > npm i mini-css-extract-plugin -D
+
+###  分离图片
+> npm i flie-loader url-loader -D
+
+### 处理模板html
+> npm i html-webpack-plugin -D
